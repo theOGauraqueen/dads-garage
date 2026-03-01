@@ -1,1 +1,1 @@
-# dads-garage
+# shop-theme
